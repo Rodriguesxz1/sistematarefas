@@ -1,0 +1,3 @@
+[submodule "libs/bibliotecautil"]
+	path = libs/bibliotecautil
+	url = https://github.com/Rodriguesxz1/bibliotecautil.git
